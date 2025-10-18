@@ -56,3 +56,4 @@ npm init -y
 npm install --save-dev hardhat @nomiclabs/hardhat-ethers ethers dotenv
 npx hardhat
 # choose "Create a basic sample project"
+contract address : 0x3D78a82fc862371d629a55b8dF2bEa6890e9b25b
